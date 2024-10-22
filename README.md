@@ -34,8 +34,6 @@ The charging station has 2 main functionalities:
 
 ### Project schematic
 ![Circuit](./aux/schema1.png)
-## Installation
-
 ## Code Overview
 ```
 void BTN2pressed()
