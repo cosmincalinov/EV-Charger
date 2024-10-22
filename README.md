@@ -56,5 +56,5 @@ Starts the charging process when BTN1 is pressed and checks is BTN2 was pressed.
 3. While charging, you can stop the process by pressing BTN2 for 1-3 seconds. Alternatively, you can wait for the charging to end by itself.
 
 ## Final result
-[![vid]](./aux/poza_circ.jpeg)(https://youtu.be/pdLlaTGCSkE)
+https://youtu.be/pdLlaTGCSkE
 
